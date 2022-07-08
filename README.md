@@ -3,6 +3,10 @@ My name is Adam. I'm a software engineer with a focus on web technologies.
 
 Languages I dig include JavaScript, TypeScript, Go, and Kotlin.
 
+#### My Most Famous Quotes
+"Optimism never shipped good software" — Adam MacDonald
+"Pessimism never shipped software" — Adam MacDonald
+
 <!--
 **adammy/adammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
