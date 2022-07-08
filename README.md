@@ -8,8 +8,7 @@ My name is Adam. I'm a software engineer with a focus on web technologies.
 - Kotlin
 
 ### My Most Famous Quotes
-- "Optimism never shipped good software"
-- "Pessimism never shipped software"
+- "Optimism never shipped good software. Pessimism never shipped software."
 - "Why do I have to throw an error? I'd prefer to yeet it."
 - "Doing discover on how Web 6.9 might work."
 - "You all complain about PHP, but one of the best websites uses it. Guess which one?"
