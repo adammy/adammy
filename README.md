@@ -1,7 +1,11 @@
 ## Hi there 👋
 My name is Adam. I'm a software engineer with a focus on web technologies.
 
-Languages I dig include JavaScript, TypeScript, Go, and Kotlin.
+### Languages I Dig
+- JavaScript
+- TypeScript
+- Go
+- Kotlin
 
 ### My Most Famous Quotes
 - "Optimism never shipped good software"
