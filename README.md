@@ -5,6 +5,7 @@ Languages I dig include JavaScript, TypeScript, Go, and Kotlin.
 
 #### My Most Famous Quotes
 "Optimism never shipped good software" — Adam MacDonald
+
 "Pessimism never shipped software" — Adam MacDonald
 
 <!--
