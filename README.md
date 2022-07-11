@@ -1,11 +1,7 @@
 ## Hi there 👋
 My name is Adam. I'm a software engineer with a focus on web technologies.
 
-### Languages I Dig
-- JavaScript
-- TypeScript
-- Go
-- Kotlin
+Languages I Dig include JavaScript, TypeScript, Go, and Kotlin.
 
 <!--
 **adammy/adammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
